@@ -19,7 +19,7 @@ An 🏆 **award-winning** FPGA Pong implementation that turns broadcast hardware
 - Timing: Broadcast-grade sync generation
 
 ## **Achievement Highlights**
-- 3rd Place Winner at Hack The Hill II
+- 🏆 3rd Place Winner at Hack The Hill II
 - Completed in 10-hour hackathon timeframe
 - Two-person team competing against teams of five
 - Successfully deployed on professional broadcast equipment
