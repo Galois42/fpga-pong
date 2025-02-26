@@ -5,7 +5,7 @@ An 🏆 **award-winning** FPGA Pong implementation that turns broadcast hardware
 
 You can find an overview of our project, including the problem we tackled and our solution, on our Devpost: https://devpost.com/software/interactive-pong
 
-Watch a demonstration of our project in action: https://www.youtube.com/watch?v=OCa7YA6R_MA&ab_channel=Wheeltimer
+Watch a demonstration of our project in action! : https://www.youtube.com/watch?v=OCa7YA6R_MA&ab_channel=Wheeltimer
 
 ## **Key Features**
 - Real-time interactive gameplay with user input support
