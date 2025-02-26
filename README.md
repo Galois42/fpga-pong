@@ -3,9 +3,9 @@
 
 An 🏆 **award-winning** FPGA Pong implementation that turns broadcast hardware into a gaming platform, developed in 10 hours at Hack The Hill. 
 
-You can find an overview of our project, including the problem we tackled and our solution, on our Devpost: https://devpost.com/software/interactive-pong
+You can find an overview of the project on Devpost: https://devpost.com/software/interactive-pong
 
-Watch a demonstration of our project in action! : https://www.youtube.com/watch?v=OCa7YA6R_MA&ab_channel=Wheeltimer
+Watch a demonstration of the project in action! : https://www.youtube.com/watch?v=OCa7YA6R_MA&ab_channel=Wheeltimer
 
 ## **Key Features**
 - Real-time interactive gameplay with user input support
