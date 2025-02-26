@@ -1,7 +1,7 @@
-# **🎮 FPGA-Pong: Professional Broadcast-Ready Game Implementation**
+# **FPGA-Pong 🏓: Professional Broadcast-Ready Game Implementation**
 
 
-An 🏆 **award-winning** FPGA Pong 🏓 implementation that turns broadcast hardware into a gaming platform, developed in 10 hours at Hack The Hill. 
+An 🏆 **award-winning** FPGA Pong implementation that turns broadcast hardware into a gaming platform, developed in 10 hours at Hack The Hill. 
 
 🔗 You can find an overview of the project on Devpost: https://devpost.com/software/interactive-pong
 
