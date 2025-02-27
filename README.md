@@ -10,7 +10,7 @@ An 🏆 **award-winning** FPGA Pong implementation that turns broadcast hardware
 ## **✨ Key Features**
 - 🎯 Real-time interactive gameplay with user input support
 - 🤖 AI opponent with intelligent ball tracking
-- 🌈Dynamic color-changing graphics system
+- 🌈 Dynamic color-changing graphics system
 - 🔢 Real-time score display using SDI character generation
 - 📡 Professional broadcast-quality output via SDI video protocols
 - ⚡ Pixel-perfect display timing implementation
