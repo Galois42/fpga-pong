@@ -7,7 +7,7 @@ An 🏆 **award-winning** FPGA Pong implementation that turns broadcast hardware
 
 📺 Watch a demonstration of the project in action! : https://www.youtube.com/watch?v=OCa7YA6R_MA&ab_channel=Wheeltimer
 
-🔗 For a comprehensive project overview, please check this LinkedIn post: https://www.linkedin.com/posts/anas-bourfia_im-thrilled-to-announce-that-my-team-and-activity-7254148191841931264-23-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSf7cQBtgWqx99Q6L07RQ_Fsmqsp9rrGr8
+📄 For a comprehensive project overview, please check this LinkedIn post: https://www.linkedin.com/posts/anas-bourfia_im-thrilled-to-announce-that-my-team-and-activity-7254148191841931264-23-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADSf7cQBtgWqx99Q6L07RQ_Fsmqsp9rrGr8
 ## **✨ Key Features**
 - 🎯 Real-time interactive gameplay with user input support
 - 🤖 AI opponent with intelligent ball tracking
